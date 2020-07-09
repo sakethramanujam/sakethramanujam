@@ -5,8 +5,8 @@
 
 I'm currently working on setting up monitoring infra on photonic systems and learning to draw feynman diagrams properly.
 
-<a href="https://twitter.com/protonbot_1729"><img alt="twitter" width=50 src='/logos/Twitter_Social_Icon_Circle_Color.png'/> </a>
-<a href="https://perceptiveproton.me"><img alt="portfolio" width=50 src='/logos/portfolio.png'></a>
-<a href="https://www.linkedin.com/in/sakethramanujam/"><img alt="linkedin" width=50 src='/logos/linkedin-logo.png'></a>
+<a href="https://twitter.com/protonbot_1729"><img alt="twitter" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/Twitter_Social_Icon_Circle_Color.png'/> </a>
+<a href="https://perceptiveproton.me"><img alt="portfolio" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/portfolio.png'></a>
+<a href="https://www.linkedin.com/in/sakethramanujam/"><img alt="linkedin" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/linkedin-logo.png'></a>
 
 > ⚡ Fun fact: I'm not crazy, my mother had me tested
