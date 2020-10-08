@@ -1,11 +1,9 @@
-![chandra-xray](https://upload.wikimedia.org/wikipedia/commons/f/f1/NASA%27s_Chandra_X-ray_Observatory_Celebrates_15th_Anniversary_%2818869429790%29.jpg)
-### :zap: Saketha Ramanujam (he/him)
+### :wave: I'm Saketha Ramanujam ([he/him](https://pronoun.is/he))
 <hr>
-• Photonics • Python • Music • Standard Model • Electronics
-
-I'm currently working on setting up dashboards for iot/photonic systems and learning to draw feynman diagrams properly.
-
-<a href="https://twitter.com/protonbot_1729"><img alt="twitter" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/Twitter_Social_Icon_Circle_Color.png'/> </a>
-<a href="https://perceptiveproton.me"><img alt="portfolio" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/portfolio.png'></a>
-<a href="https://www.linkedin.com/in/sakethramanujam/"><img alt="linkedin" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/linkedin-logo.png'></a>
+- I'm an Electronics Engineer working on signal processing in Photonics at [GVP SIRC](http://gvpsirc.in)
+- I'm a Musician and a
+- A Particle and Astrophysics enthusiast with a penchant for Feynman Diagrams and particle interactions.
+- I write about science and tech at [perceptiveproton.me](https://perceptiveproton.me/blog)
+- Reach out at [neutrinos](https://twitter.com/neutrinos__) and [linkedin](https://linkedin.com/in/sakethramanujam)
+or write to  me at saketh[at]perceptiveproton[dot]me
 
