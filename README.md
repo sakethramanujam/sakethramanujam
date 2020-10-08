@@ -9,3 +9,4 @@
 - Reach out at [neutrinos](https://twitter.com/neutrinos__) and [linkedin](https://linkedin.com/in/sakethramanujam)
 or write to  me at saketh[at]perceptiveproton[dot]me
 
+> GPG: FD1D DD03 BC99 069B 1525  7310 92FA C340 EE5E 8CCA
