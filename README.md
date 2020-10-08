@@ -9,4 +9,3 @@ I'm currently working on setting up dashboards for iot/photonic systems and lear
 <a href="https://perceptiveproton.me"><img alt="portfolio" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/portfolio.png'></a>
 <a href="https://www.linkedin.com/in/sakethramanujam/"><img alt="linkedin" width=50 src='https://github.com/sakethramanujam/sakethramanujam/blob/master/logos/linkedin-logo.png'></a>
 
-> ⚡ Fun fact: I'm not crazy, my mother had me tested
