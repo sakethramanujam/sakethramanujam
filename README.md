@@ -2,6 +2,7 @@
 Graduate Student in Electrical Engineering at Arizona State University
 
 <hr>
+
 I scribble about science and tech at [sakethramanujam.me](https://sakethramanujam.me/blog)
 
 
