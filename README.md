@@ -1,6 +1,7 @@
 ### :wave: I'm Saketha Ramanujam ([he/him](https://pronoun.is/he))
-Graduate Student in Electrical Engineering at Arizona State University
-
+I'm <br>
+- a Graduate Student in Electrical Engineering at Arizona State University <br>
+- an Electronic Systems Intern at @tesla-motors
 <hr>
 
 I scribble about science and tech at [sakethramanujam.me](https://sakethramanujam.me/blog)
