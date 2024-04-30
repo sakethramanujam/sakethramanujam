@@ -2,7 +2,7 @@
 Radio Systems Engineering @tesla-motors
 <hr>
 
-I scribble about science and tech at [sakethramanujam.me](https://sakethramanujam.me/blog)
+I scribble about science and tech at [https://www.s3r1.co](https://www.s3r1.co)
 
 
 Connect with me on twitter [@neutrinos](https://twitter.com/neutrinos__) or linkedin [@sakethramanujam](https://linkedin.com/in/sakethramanujam)
